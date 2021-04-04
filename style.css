@@ -1,0 +1,29 @@
+nav{
+    text-align: center;
+}
+
+.searchD{
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+}
+
+section{
+   display: flex;
+}
+.currentDay{
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+.five-days{
+   display: flex;
+   flex-direction: row;
+}
+
+.day{
+    background-color: blue;
+}
+.day p {
+    color: white;
+}
